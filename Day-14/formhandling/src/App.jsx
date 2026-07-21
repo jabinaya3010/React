@@ -1,8 +1,8 @@
 import React from 'react'
 import StudentDetails from './component/StudentDetails'
-import Student from './component/student'
-import Course from './component/course'
-import { Studentlist } from './component/Studentlist'
+import Student from './component/Student'
+import Course from './component/Course'
+import {Studentlist}  from './component/Studentlist'
 import Product from './component/Product'
 
 const App = () => {
